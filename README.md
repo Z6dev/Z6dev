@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Z6DEV
 
-![Z6DEV Avatar](https://avatars.githubusercontent.com/u/168093172?v=4) <!-- You can upload and use your own image URL -->
+<img src="https://z6dev.github.io/Temples-Of-Man/assets/Jakuta.png" width="80" height="80"> <!-- You can upload and use your own image URL -->
 
-Just a **13-year-old dev** who loves to **code**, **create**, and occasionally set things on fire 🔥 (in the fun, not-illegal way, I promise).
+Just a **13-year-old dev** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
 
 ---
 
@@ -16,7 +16,7 @@ _Not released yet... wait pls 🙏_
 ---
 
 ### 🧠 go-fbrain
-![Sierpinski in Terminal](https://i.imgur.com/RQXBcHq.png)
+<img src="https://i.imgur.com/RQXBcHq.png" alt="Sierpinski in Terminal" width="400" height="260">
 
 A Brainf\*\*k interpreter I forked from [this GitHub project](https://github.com/MihajloNesic/gobrainfuck) and modified it,  
 because... _why not?_ Right????
@@ -26,7 +26,7 @@ because... _why not?_ Right????
 ---
 
 ### 🐍 wurmlang
-![wurmlang ASCII](https://i.imgur.com/oIEL1bH.png)
+<img src="https://i.imgur.com/oIEL1bH.png" alt="Wurmlang ASCII art" width="400" height="260">
 
 A little programming language I made because I was **REAAALLLY BOOOOREEED**.  
 It's like if **Python** + **JavaScript** had a baby, and that baby is this **ABOMINATION**.
