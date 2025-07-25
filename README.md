@@ -16,7 +16,7 @@ _Not released yet... wait pls 🙏_
 ---
 
 ### 🧠 go-fbrain
-![Sierpinski in Terminal](https://imgur.com/RQXBcHq)
+![Sierpinski in Terminal](https://i.imgur.com/RQXBcHq.png)
 
 A Brainf\*\*k interpreter I forked from [this GitHub project](https://github.com/MihajloNesic/gobrainfuck) and modified it,  
 because... _why not?_ Right????
@@ -26,7 +26,7 @@ because... _why not?_ Right????
 ---
 
 ### 🐍 wurmlang
-![wurmlang ASCII](https://your-wurmlang-image-url-here)](https://i.imgur.com/oIEL1bH.png)
+![wurmlang ASCII](https://i.imgur.com/oIEL1bH.png)
 
 A little programming language I made because I was **REAAALLLY BOOOOREEED**.  
 It's like if **Python** + **JavaScript** had a baby, and that baby is this **ABOMINATION**.
