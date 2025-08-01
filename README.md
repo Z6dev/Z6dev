@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Z6DEV
 
-<img src="https://z6dev.github.io/Temples-Of-Man/assets/Jakuta.png" width="170" height="170">
-
 Just a **13-year-old dev** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
 
 ---
