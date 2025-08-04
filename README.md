@@ -6,11 +6,11 @@ Just a **13-year-old dev** who loves to **code**, **create**, and occasionally s
 
 ## 🌱 Currently Learning:
 - `Go`
-- Game design with JavaScript & HTML5 canvas
 - Low-level stuff & Designing interpreters, because why not?
+- Web Development
 
 ## 🤖 Languages I Use
-`JavaScript` • `Go` • `Python` • `Lua`
+`JavaScript` • `Go` • `Python` 
 
 ---
 
