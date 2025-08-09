@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Z6DEV
+![Header](./github-header-banner.png)
 
-Just a **13-year-old dev** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
+Just a **13-year-old coder** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
 
 ---
 
