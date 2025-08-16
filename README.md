@@ -1,16 +1,21 @@
 ![Header](./github-header-banner.png)
 
 Just a **13-year-old coder** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
+I really Love **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!
 
 ---
 
-## 🌱 Currently Learning:
-- `Go`
-- Low-level stuff & Designing interpreters, because why not?
-- Web Development
+## 🖥 My Skills:
+- Game Development, atleast the coding side. (I suck at art, A LOT)
+- Making Useless Trash without Purpose. Could say most of it was scrapped after a few days.
 
-## 🤖 Languages I Use
-`JavaScript` • `Go` • `Python` 
+## 🌱 Currently Learning:
+- Web Development (I have trouble keeping up with the new hypes 🐌)
+- Low-Level Stuff, I find Being a perfectionist in tech fun.
+
+## 🤖 Languages I Use:
+`JavaScript` • `Go` • `Python`
+ - Although I mostly use Python for automating my school homeworks... Weird, huh?
 
 ---
 
