@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
-Just a **13-year-old coder** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.
-I really Love **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!
+Just a **13-year-old coder** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.   
+I really Love **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!  
 
 ---
 
