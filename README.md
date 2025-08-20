@@ -5,9 +5,10 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 
 ---
 
-## 🖥 My Skills:
+## 🖥 Things I love:
 - Game Development, atleast the coding side. (I suck at art, A LOT)
 - Making Useless Trash without Purpose. Could say most of it was scrapped after a few days.
+- Graphics. For whatever reason, It just gives me a dopamine boost.
 
 ## 🌱 Currently Learning:
 - Web Development (I have trouble keeping up with the new hypes 🐌)
