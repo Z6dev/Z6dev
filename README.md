@@ -17,6 +17,7 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 ## 🤖 Languages I Use:
 `JavaScript` • `Go` • `Python`
  - Although I mostly use Python for automating my school homeworks... Weird, huh?
+ - Im trying to learn `Rust`, but tis Hard 💀
 
 ---
 
