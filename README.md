@@ -12,12 +12,12 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 
 ## 🌱 Currently Learning:
 - Web Development (I have trouble keeping up with the new hypes 🐌)
-- Low-Level Stuff, I find Being a perfectionist in tech fun.
+- Low-Level Stuff, I find Tinkering stuff fun.
 
 ## 🤖 Languages I Use:
 `JavaScript` • `Go` • `Python`
  - Although I mostly use Python for automating my school homeworks... Weird, huh?
- - Im trying to learn `Rust`, but tis Hard 💀
+ - Im trying to learn `C++` though...   
 
 ---
 
