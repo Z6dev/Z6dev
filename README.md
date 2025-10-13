@@ -19,6 +19,6 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 
 ---
 
-> _“BEHOLD, THE POWER OF A WCHAR!”_  
+> _“I Use Debian BTW.”_  
 — **Z6DEV**
 
