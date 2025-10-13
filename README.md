@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-Just a **13-year-old coder** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.   
+Just a **13-year-old kid** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.   
 I really Love **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!  
 
 ---
@@ -11,7 +11,7 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 - Graphics. For whatever reason, It just gives me a dopamine boost.
 
 ## 🌱 Currently Learning:
-- Web Development (I have trouble keeping up with the new hypes 🐌)
+- Game Development.
 - Low-Level Stuff, I find Tinkering stuff fun.
 
 ![Z6dev's Github Profile](https://github-readme-stats.vercel.app/api?username=Z6dev&show_icons=true&theme=tokyonight)
@@ -19,6 +19,6 @@ I really Love **Game Development**. I made some games, like those on my Gamejolt
 
 ---
 
-> _“Build weird things, break some stuff, and have fun doing it.”_  
+> _“BEHOLD, THE POWER OF A WCHAR!”_  
 — **Z6DEV**
 
