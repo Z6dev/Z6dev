@@ -3,8 +3,6 @@
 Just a **13-year-old kid** who loves to **code**, **create**, and occasionally set my computer on fire 🔥.   
 I really Love **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!  
 
-I use C BTW, coz C++ is hellish
-
 ---
 
 ## 🖥 Things I love:
