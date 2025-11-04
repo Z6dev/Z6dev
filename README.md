@@ -29,6 +29,10 @@ Buuutttttt, I'm also currently working on a game Made in C!!! I hope I can finis
 
 ---
 
+## Cool People!!!!1
+- [MaAlFa](https://github.com/MaAlFa123) - friend
+- [si-Athaa](https://github.com/si-Athaa) - also a friend of mine
+
 > _“I Use Debian BTW.”_  
 — **Z6DEV**
 
