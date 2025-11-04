@@ -17,7 +17,7 @@ so If I ever makes some stuff windows support may come later or even never. (I h
 ---
 
 ## ⌨ Tools I Use
-- The Glorious C Language
+- The Glorious C and Go Programming Language
 - [Raylib](https://github.com/raysan5/raylib) (Go check it out, it's cool)
 - [SDL](https://libsdl.org)
 
