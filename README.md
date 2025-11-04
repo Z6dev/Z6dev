@@ -1,8 +1,8 @@
 ![Header](./github-header-banner.png)
 
-Just a **13-yo** who loves to **Code**, alas dont expect much from my code Quality.
+Just a **13-yo** who loves to **Code**, alas dont expect much from my code Quality.   
 I also really Like **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!  
-Buuutttttt, I'm also currently working on a game Made in C!!! I hope I can finish it though.
+Buuutttttt, I'm also currently working on a game Made in C!!! I hope I can finish it though.   
 
 ---
 
