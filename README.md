@@ -4,6 +4,9 @@ Just a **13-yo** who loves to **Code**, alas dont expect much from my code Quali
 I also really Like **Game Development**. I made some games, like those on my Gamejolt. But you know those are **HOT GARBAGE**!!!!!  
 Buuutttttt, I'm also currently working on a game Made in C!!! I hope I can finish it though.   
 
+Oh! And I use Debian!   
+so If I ever makes some stuff windows support may come later or even never. (I hope not)
+
 ---
 
 ## 🖥 Things I love:
@@ -33,6 +36,6 @@ Buuutttttt, I'm also currently working on a game Made in C!!! I hope I can finis
 - [MaAlFa](https://github.com/MaAlFa123) - friend
 - [si-Athaa](https://github.com/si-Athaa) - also a friend of mine
 
-> _“I Use Debian BTW.”_  
+> _“Front end Web Dev is Overrated”_  
 — **Z6DEV**
 
