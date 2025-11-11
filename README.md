@@ -23,6 +23,6 @@ so If I ever makes some stuff windows support may come later or even never. (I h
 ---
 
 ## Cool People!!!!1
-- [MaAlFa](https://github.com/MaAlFa123) - friend
-- [si-Athaa](https://github.com/si-Athaa) - also a friend of mine
+- [si-Athaa](https://github.com/si-Athaa) - a friend of mine
+- [Notreal-oooooooo](https://github.com/NotReal-ooooooo) - Another friend of mine
 
