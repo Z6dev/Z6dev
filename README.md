@@ -9,7 +9,7 @@ so If I ever makes some stuff windows support may come later or even never. (I h
 
 ## 🖥 Things I love:
 - Game Development!!!!!!
-- Low Level Programming (Anything for that sweet sweet FPS)
+- Pixel art ofc, Just so you know, I made some stupid shits of a pixel art.
 - Making Useless Trash without Purpose. Could say most of it was scrapped after a few days.
 - Graphics. For whatever reason, It just gives me a dopamine boost.
 
