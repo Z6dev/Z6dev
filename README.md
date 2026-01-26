@@ -1,6 +1,6 @@
-Am too lazy to yap, basically I like to use C and go language.  
-I like Making games, making pixel art, etc etc some stuff  
-Doom is my fav engine and game too!  
+I'm just an Indonesian kid who likes to Code.
+I usually Code in C or Golang.
+Mostly makes games and draw shih.
 
 # Some Random Image ig
 <p align="center">
